@@ -1,0 +1,121 @@
+{
+	"profile":[
+{
+	"basics":{
+		"name":"Priya",
+		"role":"Student",
+		"phone":"8074771321",
+		"email":"krishnapriyanalla.gmail.com"
+	},
+	"career":"i' want to be in a place to share my knowledge and skills to bring huge development",
+	"mydata": {
+		"name": "LBRCE(CSE)",
+		"percentage": "90",
+		"yop": "2022"
+	},
+	"mydata1": {
+
+		"name": "Sri Chaitanya",
+		"percentage": "98%",
+		"yop": "2018"
+
+
+	}, 
+	"mydata2": {
+
+		"name": "Sri Chaitanya",
+		"percentage": "98%",
+		"yop": "2016"
+
+	},
+	"skills": {
+		"a": "Python",
+		"b": "Linux",
+		"c": "SQL",
+		"d": "Java"
+	},
+	"hobbies": {
+		"ho1": "Listening to music",
+		"ho2": "Surfing internet"
+	}
+},
+{
+	"basics":{
+		"name":"Sindhu",
+		"role":"Student",
+		"phone":"9603384612",
+		"email":"gssvstejaswi@gmail.com"
+	},
+	"career":"i' want to expore my entire knowledge to give better O/p or solution",
+	"mydata": {
+		"name": "LBRCE(CSE)",
+		"percentage": "90",
+		"yop": "2022"
+	},
+	"mydata1": {
+
+		"name": "Sri Gayatri",
+		"percentage": "98%",
+		"yop": "2018"
+
+
+	}, 
+	"mydata2": {
+
+		"name": "NRI Indian Springs",
+		"percentage": "98%",
+		"yop": "2016"
+
+	},
+	"skills": {
+		"a": "Python",
+		"b": "Linux",
+		"c": "SQL",
+		"d": "Java"
+	},
+	"hobbies": {
+		"ho1": "Listening to music",
+		"ho2": "Scrolling insta"
+	}
+},
+{
+	"basics":{
+		"name":"Tejaswi",
+		"role":"Employee",
+		"phone":"9494530245",
+		"email":"tejaswi.nalla@gmail.com"
+	},
+	"career":"i' want to expore my entire knowledge to give better O/p or solution",
+	"mydata": {
+		"name": "CRR",
+		"percentage": "80",
+		"yop": "2014"
+	},
+	"mydata1": {
+
+		"name": "Sri Chaitanya",
+		"percentage": "90%",
+		"yop": "2010"
+
+
+	}, 
+	"mydata2": {
+
+		"name": "Sri Chaitanya",
+		"percentage": "90%",
+		"yop": "2008"
+
+	},
+	"skills": {
+		"a": "Python",
+		"b": "Linux",
+		"c": "SQL",
+		"d": "Java"
+	},
+	"hobbies": {
+		"ho1": "Playing games",
+		"ho2": "Watching TV"
+	}
+}
+]
+}
